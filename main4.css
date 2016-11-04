@@ -1,0 +1,26 @@
+
+div { font-size: 12px;
+	padding: 1px;
+	margin: 3px;
+	height: 36px;
+}
+
+.amarillo1 {
+	background-color: #FFFF00;
+	display: inline-block;
+	
+	
+}
+
+.rojo {
+	background: red;
+	display: inline-block;
+	
+}
+
+.amarillo2 {
+
+	background-color: #FFFF00;
+	display: inline-block;
+
+}

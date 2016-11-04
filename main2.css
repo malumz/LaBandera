@@ -1,0 +1,16 @@
+div {
+	width: 250px;
+	height: 100px;
+}
+
+
+.rojo {
+	background: red;
+	margin: 10px;
+
+	
+}
+.amarillo {
+	background: yellow;
+	margin: 10px;
+	
